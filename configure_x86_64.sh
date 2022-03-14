@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 conan install \
   --profile ./conan_profiles/conanprofile_x86_64 \
   conanfile.txt \
